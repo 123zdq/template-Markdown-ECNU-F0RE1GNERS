@@ -375,8 +375,8 @@ $if(logo)$
 $endif$
 $endif$
 
-\title{\vspace{50mm} \huge Standard Code Library \\[20pt]}
-\author{Your TeamName \\[10pt] Your School}
+\title{\vspace{50mm} \huge 代码模板 \\[20pt]}
+\author{zdq \\[10pt] SCUT}
 \date{\today}
 
 
